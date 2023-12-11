@@ -1,0 +1,12 @@
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\SNT_MMUnicode_Excel2007.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\SNT_MMUnicode_Excel2007.pdb
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\SNT_MMUnicode_Excel2007.dll.manifest
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\SNT_MMUnicode_Excel2007.vsto
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.Properties.Resources.resources
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.Ribbon1.resources
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.csproj.GenerateResource.Cache
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.dll
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.pdb
+C:\Users\Manager01\Documents\Visual Studio 2010\Projects\SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007\obj\Debug\SNT_MMUnicode_Excel2007.csprojResolveAssemblyReference.cache

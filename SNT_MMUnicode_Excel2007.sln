@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SNT_MMUnicode_Excel2007", "SNT_MMUnicode_Excel2007\SNT_MMUnicode_Excel2007.csproj", "{BBCE0685-9FF6-4E3A-B6B8-E94075AE520D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SNT_MMUnicode_Excel2007_Setup", "SNT_MMUnicode_Excel2007_Setup\SNT_MMUnicode_Excel2007_Setup.vdproj", "{4C1093F0-A236-405F-A548-B305D2A3BC79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBCE0685-9FF6-4E3A-B6B8-E94075AE520D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCE0685-9FF6-4E3A-B6B8-E94075AE520D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCE0685-9FF6-4E3A-B6B8-E94075AE520D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCE0685-9FF6-4E3A-B6B8-E94075AE520D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C1093F0-A236-405F-A548-B305D2A3BC79}.Debug|Any CPU.ActiveCfg = Debug
+		{4C1093F0-A236-405F-A548-B305D2A3BC79}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
